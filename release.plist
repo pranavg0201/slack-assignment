@@ -2,17 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>CFBundleName</key>
-        <string>MYAPP</string>
-        <key>CFBundlePackageType</key>
-        <string>APPL</string>
-        <key>CFBundleShortVersionString</key>
-        <string>1.1-DEV-SNAPSHOT</string>
-        <key>SLKReleaseName</key>
-        <string>BEER</string>
-        <key>CFBundleVersion</key>
-        <string>370000</string>
-        <key>LSRequiresIPhoneOS</key>
-        <true/>
+	<key>CFBundleName</key>
+	<string>MYAPP</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2-DEV-SNAPSHOT</string>
+	<key>CFBundleVersion</key>
+	<string>370000</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>SLKReleaseName</key>
+	<string>CAKE</string>
 </dict>
 </plist>
